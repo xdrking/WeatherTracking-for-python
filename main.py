@@ -6,7 +6,7 @@ import tkinter as tk
 
 # our necessary links
 url ='https://api.openweathermap.org/data/2.5/weather'
-api_key = '3b565b69f2e73f5d8bcf4efed1329231'
+api_key = 'YOUR API KEY'
 iconUrl = 'http://openweathermap.org/img/wn/{}@2x.png'
 
 # this function is used for weather settings
